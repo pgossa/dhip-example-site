@@ -1,0 +1,3 @@
+[submodule "themes/dhip"]
+	path = themes/dhip
+	url = https://github.com/pgossa/dhip.git
