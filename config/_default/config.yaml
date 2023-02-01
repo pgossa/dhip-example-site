@@ -1,0 +1,4 @@
+title: Dhip theme example # Website name
+baseURL: 'https://example.com/' # Website URL
+languageCode: "en-us"
+theme: "dhip"

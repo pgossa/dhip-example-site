@@ -1,0 +1,15 @@
+main:
+  - name: Home
+    url: '/'
+    pre: 'house'
+    weight: 1
+
+  - name: Posts
+    url: '/posts/'
+    pre: 'pen'
+    weight: 2
+  
+  - name: Tags
+    url: '/tags/'
+    pre: 'tag'
+    weight: 3

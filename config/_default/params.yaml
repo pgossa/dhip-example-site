@@ -1,0 +1,17 @@
+background: 
+  default: /images/site/background.png
+  sidebar: /images/site/sidebar.png
+author:
+  description:
+    - "I am a DevOps"
+    - "I love OpenSource"
+    - "I like working on fun project"
+  profilepicture: /images/author/profile.png
+  social:
+    mail: pierre.gossa@gmail.com
+    github: https://github.com/pgossa
+    docker: https://hub.docker.com/u/pgossa
+    stack-overflow: https://stackoverflow.com/users/20677182/pgossa
+    linkedin: https://www.linkedin.com/in/pierre-gossa-70401a12b/
+    twitter:
+    telegram: https://t.me/pgossa
